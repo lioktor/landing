@@ -1,0 +1,30 @@
+.btn-medium {
+  background-color: white;
+  color: #828282;
+  border-radius: 16px;
+  padding: 16px 24px;
+  margin: 24px 8px;
+  border-width: thin;
+  border-color: #828282;
+  border-style: solid;
+}
+
+.btn-treehouse {
+  background-color: #76a21e;
+  font-weight: bold;
+  color: white;
+  border-radius: 8px;
+  padding: 16px 24px;
+  margin: 8px 8px
+}
+
+
+.btn-medium:hover {
+  color: #686969;
+  border-color: #686969;
+}
+
+.btn-treehouse:hover {
+  background-color: #76c41e
+}
+
